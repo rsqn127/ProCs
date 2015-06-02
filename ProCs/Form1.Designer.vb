@@ -67,7 +67,7 @@ Partial Class frmMain
         '
         'Timer
         '
-        Me.Timer.Interval = 1000
+        Me.Timer.Interval = 2500
         '
         'frmMain
         '
